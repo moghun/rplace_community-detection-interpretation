@@ -6,4 +6,3 @@ User collaboration is not an unusual way of creating content on the internet; in
 
 
 <img width="729" alt="k" src="https://user-images.githubusercontent.com/89805772/176022254-294f6936-1368-4bbd-92fe-4923fe1afc1e.png">
-<img width="470" alt="conc-col-unw" src="https://user-images.githubusercontent.com/89805772/176022242-095fdbe4-ac34-4b26-ab8a-44d5c180a833.png"> <img width="624" alt="iter-nocol-unw" src="https://user-images.githubusercontent.com/89805772/176022324-c4be89e0-48e5-4d8e-85b1-ffb738b6f08f.png">
